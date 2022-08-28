@@ -1,3 +1,17 @@
+---
+title: "Shor's algorithm"
+last_modified_at: 2022-08-30
+categories:
+  - Blog
+tags:
+  - Shor's algorithm
+  - Quantum algorithm
+
+classes: wide
+
+---  
+<br/>
+
 ## Shor's algorithm
 
   First proposed in 1994, Shor's algorithm was one of the very first quantum algorithms that tackled problem of actual interest. While Shor's algorithm can be used to compute discrete logarithms, it is most famous for factoring integers in polynomial time. 
